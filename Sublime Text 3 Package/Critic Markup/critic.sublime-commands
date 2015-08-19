@@ -1,0 +1,18 @@
+[
+	{
+		"caption": "CriticMarkup: List additions, deletions, and substitutions",
+		"command": "list_critics"
+	},
+	{
+		"caption": "CriticMarkup: List comments and highlights",
+		"command": "list_critics_comments"
+	},
+	{
+		"caption": "CriticMarkup: Mark selected text",
+		"command": "mark_critic"
+	},
+	{
+		"caption": "CriticMarkup: Review selected edit",
+		"command": "accept_critic"
+	}
+]
